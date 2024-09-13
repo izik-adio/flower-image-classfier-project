@@ -1,1 +1,1 @@
-# udacity-flower-image-classfier-project
+# Udacity Flower Image Classfier Project
